@@ -1,0 +1,198 @@
+{
+  "intents": [
+    {
+      "tag": "depressed",
+      "patterns": [
+        "I am feeling depressed.",
+        "I am feeling sad.",
+        "I don't feel good anymore.",
+        "I have lost faith in people.",
+        "I have lost the will to live.",
+        "I don't know what to do anymore.",
+        "I feel alone all the time.",
+        "How do i start living again?",
+        "How can i be happy again?",
+        "What did i do to deserve this?",
+        "Why does it always keep happening to me? ",
+        "I need help.",
+        "I wanna talk to someone.",
+        "I feel like this is it for me.",
+        "Can you help me?",
+        "Why does nothing ever goes right for me?",
+        "I'm upset",
+        "It's all my fault",
+        "I can't do this anymore",
+        "I can't take it anymore",
+        "I just wanna be alone",
+        "Everything is pointless",
+        "What's the point of doing this anymore?"
+      ],
+      "responses": [
+        "Don't worry everything is gonna be fine. Why don't you tell me more about what happened?"
+      ]
+    },
+    {
+      "tag": "Greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Is anyone there?",
+        "Hello",
+        "Greetings",
+        "Good morning",
+        "Hola!",
+        "Good evening",
+        "Hello Bot",
+        "How you doing?",
+        "What's up",
+        "Good afternoon",
+        "Yo!"
+      ],
+      "responses": [
+        "Hello",
+        "Hi",
+        "Hi there",
+        "Hey, how can I help you?"
+      ]
+    },
+    {
+      "tag": "Goodbye_Thanks",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Goodnight",
+        "Thank You",
+        "Thanks",
+        "Thanks",
+        "Thank you",
+        "That was helpful",
+        "Thanks for the help",
+        "Thank you for helping out",
+        "Your help is much appreciated",
+        "You are so kind",
+        "You are very helpful",
+        "Gracias"
+      ],
+      "responses": [
+        "See you later",
+        "Have a nice day",
+        "Bye! Come back again",
+        "Happy to help!",
+        "Any time!",
+        "My pleasure",
+        "You're most welcome!"
+      ]
+    },
+    {
+      "tag": "relationships",
+      "patterns": [
+        "My boyfriend cheated on me with another girl",
+        "My girlfriend cheated on me with another boy",
+        "I just broke up with my boyfriend",
+        "My boyfriend just broke up with me",
+        "I just broke up with my girlfriend",
+        "My girlfriend just broke up with me",
+        "I think i should break up with my boyfriend beacause he is a bad influence on me.",
+        "I think i should break up with my girlfriend beacause she is a bad influence on me.",
+        "Breakups are so hard i can't get over him",
+        "Breakups are so hard i can't get over her"
+      ],
+      "responses": [
+        "I know that you must be feeling pretty down now but don't worry, everything happens for a reason. I am proud of you for holding up so well. The pain will get easier over time and i am confident that you will bounce back to being your old self again."
+      ]
+    },
+    {
+      "tag": "followup_relationships",
+      "patterns": [
+        "Will i ever find love again?",
+        "Do you think i'll find someone better than him?",
+        "Do you think i'll find someone better than her?",
+        "Will i ever find someone as caring and loving as she was?",
+        "Will i ever find someone as caring and loving as he was?",
+        "Do you think i'll ever find my soulmate?",
+        "When will i find my loved one again?",
+        "Will i ever find someone good enough for me?",
+        "How am i ever gonna find true love?",
+        "Is ther really someone out there for me?",
+        "Will i ever find the one for me?"
+      ],
+      "responses": [
+        "Yes! It will happen for you and soon, trust me. Sometimes good things fall apart so better things can fall together.Life always waits for some crisis to occur before revealing itself at its most brilliant. So don't ever stop trying because you deserve the best there is."
+      ]
+    },
+    {
+      "tag": "studies",
+      "patterns": [
+        "I can't keep up with all the studies going on in my college.",
+        "My friends are all ahead of me and i'm all alone lagging behind.",
+        "I got low marks on a test, what am i gonna do?",
+        "I can't understand what my teachers explains.",
+        "I am lagging behind my peers so much in studies.",
+        "I am incapable of studying but i want to get better",
+        "I keep getting low grades in college",
+        "I keep getting low grades in school",
+        "There is a lotta work piling up and i can't keep up with it.",
+        "There is too much stuff to do right now i can't handle all this work."
+      ],
+      "responses": [
+        "Don't worry. So what if you're having a little bit of trouble, everyone does at some point right? What's important is you how much you're learning. Try making daily schedule, it makes efficient use of time helps you to stick to a routine. I am sure that eventually you'll get the hang of it."
+      ]
+    },
+    {
+      "tag": "followup_studies",
+      "patterns": [
+        "Will i really get better at studies?",
+        "Will it really help me get better at college?",
+        "I will be able to get better grades too?",
+        "I will be able to handle all of this work?",
+        "Studying everyday will help me get good at it?",
+        "I will be able to study efficiently?",
+        "Will it help me catch upto my friends?"
+      ],
+      "responses": [
+        "For sure! It might take sometime and you might wanna feel like giving up but what's important is you persevere through that phase.A little more persistence, a little more effort and what seems like a hopeless failure may turn to into a glorious success. So just keep at it and i assure you that you will reach there."
+      ]
+    },
+    {
+      "tag": "family",
+      "patterns": [
+        "I think my parents hate me.",
+        "I think my dad doesn't love me anymore",
+        "I think my mom doesn't love me anymore",
+        "I feel like everyone in the family hates me",
+        "My sister hates me now",
+        "My brother hates me now",
+        "I had a huge fight with my parents",
+        "My parents love my kid brother more than me.",
+        "My parents love my kid sister more than me.",
+        "My parents are upset with me.",
+        "I let my parents down."
+      ],
+      "responses": [
+        "Don't worry. Whatever it is about just talk to them, tell them how you feel. They definitely love you the most and feel responsible for you and that comes out as tough love sometimes but they still treasure you more than anything else."
+      ]
+    },
+    {
+      "tag": "followup_family",
+      "patterns": [
+        "Will talking with my family really fix things?",
+        "So talking with my mom and dad will work?",
+        "So they won't hate me anymore?",
+        "Will they start loving me again?",
+        "So will they keep loving me the most",
+        "So my parents won't be upset with me anymore?",
+        "So everything will finally be ok at my house?",
+        "So the fight will come to an end?",
+        "Does it means we won't have to fight anymore?",
+        "Will they start loving me again?"
+      ],
+      "responses": [
+        "Ofcourse! They're your family and they have never loved you any less. Just remember that being a family means you are a part of something very wonderful. It means you will love and be loved for the rest of your life."
+      ],
+      "context": [
+        ""
+      ]
+    }
+  ]
+}
